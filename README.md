@@ -32,6 +32,4 @@
 ---
 
 ### 📫 Me contacter
-
-*   **Email :** [jeanfrancois.zha@gmail.com](mailto:jeanfrancois.zha@gmail.com)
 *   **LinkedIn :** [LinkedIn](https://www.linkedin.com/in/jean-francois-zhang/)
