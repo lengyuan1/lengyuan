@@ -7,14 +7,6 @@ Qu'est-ce que je pourrais dire pour me présenter... 🤔💭 J'aime le code pro
 
 ---
 
-### 🔭 Projets principaux
-
-*   [**Tower-Game**](https://lengyuan1.github.io/tower-game/) — Intégration, adaptation et déploiement d'un mini-jeu d'adresse 3D sur navigateur (JavaScript, Three.js, GSAP).
-*   [**Find My Word**](https://github.com/lengyuan1/find-my-word) — Conception et programmation d'un jeu de devinette de mots architecturé en POO (Java, JSON, Tests unitaires).
-*   [**Algorithme K-NN**](https://github.com/lengyuan1/sae-s102-python) — Programme d'analyse et de tri de profils par calcul de distance euclidienne (Python).
-
----
-
 ### 🛠️ Compétences & Environnement Technique
 
 💻 **Langages de programmation**
