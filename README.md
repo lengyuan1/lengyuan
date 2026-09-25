@@ -1,11 +1,11 @@
-# Bonjour 👋, je suis Jean-François
+# Bonjour , je suis LengYuan
 
 > Étudiant en 2ème année de BUT Informatique à l'Université Sorbonne Paris Nord (IUT de Villetaneuse).
-> 🎯 **Actuellement à la recherche d'un stage en développement logiciel / web de 8 à 10 semaines (à partir du 8 février 2027).**
+> **Actuellement à la recherche d'un stage en développement logiciel / web de 8 à 10 semaines (à partir du 8 février 2027).**
 
-### 🛠️ Compétences & Environnement Technique
+### Compétences & Environnement Technique
 
-💻 **Langages de programmation**
+ **Langages de programmation**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-🗄️ **Bases de données**
+**Bases de données**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQL" />
@@ -31,16 +31,7 @@
 
 ---
 
-### 📊 Statistiques GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lengyuan1&show_icons=true&theme=radical" alt="Statistiques de lengyuan1" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengyuan1&layout=compact&theme=radical" alt="Langages les plus utilisés" height="150" />
-</p>
-
----
-
 ### 📫 Me contacter
 
 *   **Email :** [jeanfrancois.zha@gmail.com](mailto:jeanfrancois.zha@gmail.com)
-*   **LinkedIn :** [Jean-François ZHANG](https://www.linkedin.com/in/jean-francois-zhang/)
+*   **LinkedIn :** [LinkedIn](https://www.linkedin.com/in/jean-francois-zhang/)
