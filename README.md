@@ -3,10 +3,6 @@
 > Étudiant en 2ème année de BUT Informatique à l'Université Sorbonne Paris Nord (IUT de Villetaneuse).
 > 🎯 **Actuellement à la recherche d'un stage en développement logiciel / web de 8 à 10 semaines (à partir du 8 février 2027).**
 
-Qu'est-ce que je pourrais dire pour me présenter... 🤔💭 J'aime le code propre, la conception orientée objet et optimiser les performances de mes projets !
-
----
-
 ### 🛠️ Compétences & Environnement Technique
 
 💻 **Langages de programmation**
