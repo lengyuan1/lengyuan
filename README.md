@@ -30,6 +30,7 @@ Qu'est-ce que je pourrais dire pour me présenter... 🤔💭 J'aime le code pro
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Linux_Mint-87A96B?style=flat&logo=linuxmint&logoColor=white" alt="Linux Mint" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
 ---
