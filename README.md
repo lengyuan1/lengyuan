@@ -18,7 +18,6 @@
 **Bases de données**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
 🐧 **Outils & Systèmes d'exploitation**
