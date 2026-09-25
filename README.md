@@ -1,4 +1,4 @@
-# Bonjour 👋, je suis Jean-François
+# Bonjour , je suis lengyuan
 
 > Étudiant en 2ème année de BUT Informatique à l'Université Sorbonne Paris Nord (IUT de Villetaneuse).
 > 🎯 **Actuellement à la recherche d'un stage en développement logiciel / web de 8 à 10 semaines (à partir du 8 février 2027).**
